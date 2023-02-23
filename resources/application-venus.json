@@ -1,0 +1,12 @@
+{
+  "port": 8082,
+  "kafka": {
+    "host": "localhost:9092",
+    "topicName": "product.search.kafka.0"
+  },
+  "redis": {
+    "host": "localhost",
+    "password": "1111",
+    "database": 0
+  }
+}
